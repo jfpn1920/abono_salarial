@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\bin\Debug\net10.0\abono_salarial.exe
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\bin\Debug\net10.0\abono_salarial.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\bin\Debug\net10.0\abono_salarial.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\bin\Debug\net10.0\abono_salarial.dll
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\bin\Debug\net10.0\abono_salarial.pdb
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\obj\Debug\net10.0\abono_salarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\obj\Debug\net10.0\abono_salarial.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\obj\Debug\net10.0\abono_salarial.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\obj\Debug\net10.0\abono_salarial.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\obj\Debug\net10.0\abono_salarial.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\obj\Debug\net10.0\abono_salarial.dll
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\obj\Debug\net10.0\refint\abono_salarial.dll
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\obj\Debug\net10.0\abono_salarial.pdb
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\obj\Debug\net10.0\abono_salarial.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\abono_salarial\abono_salarial\obj\Debug\net10.0\ref\abono_salarial.dll

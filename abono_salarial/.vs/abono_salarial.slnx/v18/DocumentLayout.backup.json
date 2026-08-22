@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\abono_salarial\\abono_salarial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3461BD-07BE-ED92-6E54-94562AA3A702}|abono_salarial.vbproj|c:\\users\\lenovo\\onedrive\\documentos\\abono_salarial\\abono_salarial\\abono_salarial.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{EF3461BD-07BE-ED92-6E54-94562AA3A702}|abono_salarial.vbproj|solutionrelative:abono_salarial.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "abono_salarial.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\abono_salarial\\abono_salarial\\abono_salarial.vb",
+              "RelativeDocumentMoniker": "abono_salarial.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive\\Documentos\\abono_salarial\\abono_salarial\\abono_salarial.vb",
+              "RelativeToolTip": "abono_salarial.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-08-22T17:06:47.271Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
